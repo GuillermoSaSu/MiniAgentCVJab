@@ -20,7 +20,7 @@ Combines everything from the previous three projects into one bot: RAG over your
 
 4. **Run:**
    ```bash
-   python main.py
+   python MiniAgent.py
    ```
 
 5. Try mixing question types in one session:
